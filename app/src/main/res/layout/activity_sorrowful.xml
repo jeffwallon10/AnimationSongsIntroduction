@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sorrowful"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.lenovo.classicanimationsongsintroduction.sorrowful"
+    android:background="@drawable/a598673">
+
+    <Button
+        android:text="美しき残酷な世界   進擊的巨人"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button34"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="エウテルペ  罪惡王冠"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button34"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button35"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Stories 反叛的魯路修"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button35"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button36"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="素顏  這樣算是殭屍嗎？"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button36"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button37"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="去向悲傷的彼岸  School Days"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button37"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button38"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="secret base ～君がくれたもの～  未聞花名"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button39"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button40"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="オレンジ  四月是你的謊言"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button39"
+        android:layout_below="@+id/button38"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+</RelativeLayout>

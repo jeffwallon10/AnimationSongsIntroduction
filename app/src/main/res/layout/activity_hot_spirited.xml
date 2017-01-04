@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hot_spirited"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.lenovo.classicanimationsongsintroduction.hot_spirited"
+    android:background="@drawable/a598673">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button10"
+        android:layout_alignParentEnd="true"
+        android:text="period 鋼之煉金術師 "
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="紅蓮の弓矢 進擊的巨人"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button10"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button11"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="COLORS 反叛的魯路修"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button12"
+        android:layout_alignEnd="@+id/button12"
+        android:id="@+id/button13"
+        android:layout_alignParentStart="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Through My Blood 甲鐵城的卡巴內利"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button13"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button14"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Courage 刀劍神域"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button14"
+        android:layout_alignEnd="@+id/button14"
+        android:id="@+id/button15"
+        android:layout_alignParentStart="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="イマジネーション 排球少年"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button16"
+        android:layout_below="@+id/button15"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Call your name 進擊的巨人"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button12"
+        android:layout_below="@+id/button11"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Bloody Stream JoJo的奇妙冒險"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button17"
+        android:layout_below="@+id/button16"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="ラピスラズリ 亞爾斯蘭戰記"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button18"
+        android:layout_below="@+id/button17"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

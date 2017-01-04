@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_warm"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.lenovo.classicanimationsongsintroduction.warm"
+    android:background="@drawable/a598673">
+
+    <Button
+        android:text="harvest  灰與幻想"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button41"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="seeds  灰與幻想"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button41"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button42"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="星降る空仰ぎ見て  傳頌之物"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button42"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button43"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Gentle Jena  星之夢"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button43"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button44"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Wishing  從零開始"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button44"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button45"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="Stay Alive  從零開始"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button45"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button46"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="君さえいれば  中華一番"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button46"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button47"
+        android:layout_alignParentEnd="true"
+        android:textAllCaps="false" />
+</RelativeLayout>
